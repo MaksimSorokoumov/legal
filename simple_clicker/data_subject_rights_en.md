@@ -1,7 +1,7 @@
 # Data Subject Rights
 ## Simple Clicker App (Huawei AppGallery)
 
-**Effective date:** 23.02.2026  
+**Effective date:** 23.02.2026
 **Request contact:** kamchatka_lab@mail.ru
 
 ## 1. User rights
@@ -18,7 +18,7 @@ Subject to applicable law, users may have the right to:
 
 ## 2. How to submit a request
 
-Send your request to: kamchatka_lab@mail.ru  
+Send your request to: kamchatka_lab@mail.ru
 Please include:
 - your name (or another identifier to process the request);
 - request type (access/correction/deletion/etc.);
@@ -37,7 +37,7 @@ To protect personal data, additional information may be requested to verify the 
 
 ## 5. Limitations
 
-A request may be limited or denied where permitted by law (for example, abusive/excessive requests, inability to verify identity, or conflict with mandatory legal obligations).
+A request may be limited or denied where permitted by law (for example, repetitive or manifestly unfounded requests, inability to verify identity, or conflict with mandatory legal obligations).
 
 ## 6. Data processed by the ad SDK
 
@@ -45,8 +45,11 @@ Data processed by Yandex Mobile Ads SDK is subject to the provider's policies:
 - Yandex Privacy Policy: https://yandex.com/legal/confidential/
 - SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
 
-## 7. Contacts and links
+## 7. Complaints to data protection authorities
 
-- Privacy Policy URL: https://cloud.mail.ru/public/ms6p/gwHNe8p35
-- Data Subject Rights URL: https://cloud.mail.ru/public/UbRm/mNYy3Ggwu
+If you believe that processing of your data violates applicable law, you have the right to lodge a complaint with a competent data protection authority. In the European Union, you can contact the relevant national data protection authority.
+
+## 8. Contacts and links
+
+- Privacy Policy URL: https://github.com/MaksimSorokoumov/legal/blob/main/simple_clicker/privacy_policy_en.md
 - Contact email: kamchatka_lab@mail.ru
