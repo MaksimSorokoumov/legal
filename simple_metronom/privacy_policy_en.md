@@ -2,92 +2,117 @@
 ## Simple Metronome App (Huawei AppGallery)
 
 **Effective date:** 26.02.2026
-**Last updated:** 26.02.2026
+**Last updated:** 02.03.2026
 **Data Controller:** Maksim Sorokoumov
 **Contact email:** kamchatka_lab@mail.ru
 **Controller country/address:** Russia
 
-This Notice explains how data is processed when you use **Simple Metronome** (package: `com.kamchatka.simple_metronom.huawei`) in Huawei AppGallery.
+This Notice explains how data is processed when you use **Simple Metronome** in Huawei AppGallery.
 
 ## 1. What data is processed
 
 ### 1.1 Data processed locally on your device
-The app stores on your device:
-- current tempo (BPM) and selected rhythm pattern;
-- scale playback settings (selected scale, key, playback options);
-- app preferences (metronome click sound type, active feedback modes).
 
-This data is used exclusively for app functionality and is not transmitted to third parties.
+The app stores on your device only:
+- Current tempo (BPM) and selected rhythm pattern
+- Scale playback settings (tonic, octave, direction, waveform, loop, count-in)
+- Feedback preferences (sound, flash, vibration)
+- App language selection
+- First-launch indicator and privacy policy acceptance status
+- Last full-screen advertisement display time (for throttling to once per 10 minutes)
 
-### 1.2 Data that may be processed by a third-party ad network
-The app uses **Yandex Mobile Ads SDK** to display ads through the Huawei AppGallery platform.
-When ads are served, the third-party SDK may process:
-- device advertising identifiers (e.g., OAID/AAID/GAID, where available);
-- IP address and network parameters;
-- technical device/app data;
-- ad events (impressions, clicks, technical delivery events).
+This data is used exclusively for app functionality and is not transmitted to third parties. Data persists until you uninstall the app or clear app data.
 
-Purposes: ad delivery, frequency capping, anti-fraud, and ad performance analytics.
+### 1.2 Advertising and data processing through Yandex Mobile Ads
+
+**Important:** The app displays advertisements through Yandex Mobile Ads. This is a mandatory feature that cannot be disabled.
+
+When ads are displayed, the Yandex Mobile Ads SDK may process:
+- Device advertising identifiers (OAID, AAID, GAID, if available)
+- IP address and network parameters
+- Technical device and app information
+- Ad events (impressions, clicks, technical delivery metrics)
+
+**Your consent:** By using the app, you consent to this data processing. Consent is given by default when you start the app.
+
+**Purposes:** Ad delivery, frequency capping, anti-fraud detection, and ad performance analytics.
+
+**Yandex Privacy Policy:** https://yandex.com/legal/confidential/
 
 ## 2. App permissions
 
 The app uses the following permissions:
-- `INTERNET` and `ACCESS_NETWORK_STATE` — to load ads and make network requests;
-- `CAMERA` and `FLASHLIGHT` — to use the camera flash as a visual metronome beat indicator (optional feature);
-- `VIBRATE` — to use haptic feedback as a metronome beat indicator (optional feature).
 
-The camera and flash are used solely for the metronome light signal and are not used for capturing photos or video. The app does not request access to contacts, microphone, photos/videos, or precise location.
+- **INTERNET, ACCESS_NETWORK_STATE:** Loading advertisements and network requests
+- **CAMERA, FLASHLIGHT:** Optional camera flash feature for visual beat indicator (not used for photo capture)
+- **VIBRATE:** Optional vibration for haptic beat feedback
 
-## 3. Legal bases
+**Important note:** Camera and flashlight are used exclusively for providing a light signal and are not used for capturing photos, videos, or any visual content.
 
-Processing is carried out:
-- to provide app functionality and deliver services to you;
-- based on our legitimate interests in monetizing the app through targeted advertising;
-- based on user consent where required by applicable law.
+## 3. Legal bases for processing
 
-By using the app, you consent to data processing as described in this Notice.
+Data processing is carried out:
+- To provide app functionality and deliver services to you
+- Based on our legitimate interests in monetizing the app through advertising
+- Based on your consent, which is obtained by default for mandatory ad processing
 
-## 4. Third-party sharing
+Using the app constitutes acceptance of this data processing as described herein.
 
-We do not sell users' personal data to third parties.
-Ad-related data may be processed by third-party providers through SDK operation:
-- **Yandex Ads (Yandex Mobile Ads SDK)**
-  Yandex Privacy Policy: https://yandex.com/legal/confidential/
-  SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
+## 4. Third-party data sharing
 
-## 5. International transfers
+**Personal data:** We do not sell your personal data to third parties.
 
-Third-party ad providers may process data in different jurisdictions according to their policies and applicable law. If you are located in the European Union, data processing is also subject to Regulation (EU) 2016/679 (GDPR).
+**Advertising data:** Ad-related data is processed by Yandex Mobile Ads under their policies and terms:
+- Yandex Privacy Policy: https://yandex.com/legal/confidential/
+- Yandex Mobile Ads SDK Documentation: https://ads.yandex.com/helpcenter/en/dev/
 
-## 6. Retention
+## 5. International data transfers
 
-- Local app data remains on your device until you delete app data or uninstall the app.
-- Data processed by the ad network is retained under the provider's own policies.
+Third-party advertisers may process data on servers in different jurisdictions according to their policies and applicable law. If you are located in the European Union, data processing is also subject to Regulation (EU) 2016/679 (GDPR).
 
-## 7. Security
+## 6. Data retention
 
-Reasonable technical and organizational safeguards are applied. No internet transmission or storage system can be guaranteed 100% secure. We recommend protecting access to your device.
+- **Local app data:** Remains on your device until you delete app data or uninstall the app
+- **Advertisement data:** Retained according to Yandex Mobile Ads policies
 
-## 8. Age restriction
+## 7. Data security
 
-The app is not intended for users under 18 years old.
-If you believe a minor has provided data, contact the controller at kamchatka_lab@mail.ru.
+Reasonable technical and organizational safeguards are applied to protect your data. However, no method of transmission over the internet or electronic storage is 100% secure. We recommend protecting access to your device.
 
-## 9. Data subject rights
+## 8. Age restrictions
 
-Depending on applicable law, users may have rights of access, correction, deletion, restriction, objection, and other rights.
-The detailed procedure for exercising these rights is described in the "Data Subject Rights" document, available at: https://github.com/MaksimSorokoumov/legal/blob/main/simple_metronom/data_subject_rights_en.md
+The app is not intended for users under 18 years old. If you believe a minor has provided data, please contact us at kamchatka_lab@mail.ru.
+
+## 9. Your data subject rights
+
+Depending on applicable law, you may have the right to:
+- Access your personal data
+- Correct inaccurate data
+- Request deletion of your data
+- Request restriction of processing
+- Object to processing
+- Withdraw consent (where processing is consent-based)
+- Request data portability
+- Lodge a complaint with a data protection authority
+
+For detailed information on how to exercise these rights, please see the **Data Subject Rights** document at:
+https://github.com/MaksimSorokoumov/legal/blob/main/simple_metronom/data_subject_rights_en.md
 
 ## 10. Applicable law and jurisdiction
 
 This Notice is prepared in accordance with the laws of the Russian Federation. If you are located in the European Union, the GDPR (Regulation (EU) 2016/679) also applies.
 
-## 11. Contact
+## 11. Contact information
 
-For privacy/data requests:
-- Email: kamchatka_lab@mail.ru
-- Subject line: "Personal Data — Simple Metronome"
+For privacy questions or data requests:
+- **Email:** kamchatka_lab@mail.ru
+- **Subject line:** "Privacy Request — Simple Metronome"
+
+We will respond within a reasonable period, generally within 30 calendar days.
 
 ## 12. Changes to this Notice
 
-This Notice may be updated. The current version is available at: https://github.com/MaksimSorokoumov/legal/blob/main/simple_metronom/privacy_policy_en.md
+We may update this Notice at any time. The most current version is available at:
+https://github.com/MaksimSorokoumov/legal/blob/main/simple_metronom/privacy_policy_en.md
+
+Material changes will be communicated through the app where practicable.
