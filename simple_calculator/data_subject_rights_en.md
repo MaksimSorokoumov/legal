@@ -1,0 +1,58 @@
+# Data Subject Rights
+## Calculator & Converter App (Huawei AppGallery)
+
+**Effective date:** 13.08.2026
+**Request contact:** kamchatka_lab@mail.ru
+
+## 1. User rights
+
+Subject to applicable law, users may have the right to:
+- request access to their data;
+- request correction of inaccurate data;
+- request deletion;
+- request restriction of processing;
+- object to processing;
+- withdraw consent (where processing is consent-based);
+- request data portability;
+- lodge a complaint with a competent data protection authority.
+
+Please note: calculation history, conversion history, notes and settings are stored on your device only. You can delete them yourself and immediately — by clearing history inside the app, clearing app data in system settings, or uninstalling the app. No request to the controller is required for this.
+
+## 2. How to submit a request
+
+Send your request to: kamchatka_lab@mail.ru
+Please include:
+- your name (or another identifier to process the request);
+- request type (access/correction/deletion/etc.);
+- relevant details (date, app version, device);
+- your contact email.
+
+Subject line: "Data Subject Request — Calculator & Converter".
+
+## 3. Response timeline
+
+A response is provided within a reasonable period, generally within 30 calendar days, unless a shorter legal timeline applies.
+
+## 4. Identity verification
+
+To protect personal data, additional information may be requested to verify the requester's identity.
+
+## 5. Limitations
+
+A request may be limited or denied where permitted by law (for example, repetitive or manifestly unfounded requests, inability to verify identity, or conflict with mandatory legal obligations).
+
+## 6. Data processed by the ad SDK
+
+Data processed by Yandex Mobile Ads SDK and by the AppMetrica library bundled with it is subject to the provider's policies:
+- Yandex Privacy Policy: https://yandex.com/legal/confidential/
+- SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
+- AppMetrica service: https://appmetrica.yandex.com/
+
+## 7. Complaints to data protection authorities
+
+If you believe that processing of your data violates applicable law, you have the right to lodge a complaint with a competent data protection authority. In the European Union, you can contact the relevant national data protection authority.
+
+## 8. Contacts and links
+
+- Privacy Policy URL: https://github.com/MaksimSorokoumov/legal/blob/main/simple_calculator/privacy_policy_en.md
+- Contact email: kamchatka_lab@mail.ru
