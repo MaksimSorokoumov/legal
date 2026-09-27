@@ -2,6 +2,7 @@
 ## Simple Tune App (Huawei AppGallery)
 
 **Effective date:** 01.03.2026
+**Last updated:** 27.09.2026
 **Request contact:** kamchatka_lab@mail.ru
 
 ## 1. User rights
@@ -27,6 +28,8 @@ Please include:
 
 Subject line: "Data Subject Request — Simple Tune".
 
+If the request concerns a child, the request may be submitted by a parent or legal guardian.
+
 ## 3. Response timeline
 
 A response is provided within a reasonable period, generally within 30 calendar days, unless a shorter legal timeline applies.
@@ -39,11 +42,15 @@ To protect personal data, additional information may be requested to verify the 
 
 A request may be limited or denied where permitted by law (for example, repetitive or manifestly unfounded requests, inability to verify identity, or conflict with mandatory legal obligations).
 
-## 6. Data processed by the ad SDK
+## 6. Data processed by third-party SDKs
 
-Data processed by Yandex Mobile Ads SDK is subject to the provider's policies:
-- Yandex Privacy Policy: https://yandex.com/legal/confidential/
-- SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
+The app has no accounts and does not store personal data on our servers, so most requests are handled directly on the device (clearing app data or uninstalling the app stops further processing and deletes local data). Data processed by the third-party SDKs is subject to the providers' own policies:
+- **Yandex Mobile Ads SDK (ads)**
+  Yandex Privacy Policy: https://yandex.com/legal/confidential/
+  SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
+- **Yandex AppMetrica SDK (usage statistics)**
+  Yandex Privacy Policy: https://yandex.ru/legal/confidential/
+  SDK documentation: https://appmetrica.yandex.ru/docs/
 
 ## 7. Complaints to data protection authorities
 
