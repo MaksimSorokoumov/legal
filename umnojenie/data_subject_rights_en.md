@@ -1,0 +1,64 @@
+# Data Subject Rights
+## Multiplication Trainer App (Huawei AppGallery)
+
+**Effective date:** 10.10.2026
+**Last updated:** 10.10.2026
+**Request contact:** kamchatka_lab@mail.ru
+
+## 1. User rights
+
+Subject to applicable law, users may have the right to:
+- request access to their data;
+- request correction of inaccurate data;
+- request deletion;
+- request restriction of processing;
+- object to processing;
+- withdraw consent (where processing is consent-based);
+- request data portability;
+- lodge a complaint with a competent data protection authority.
+
+## 2. How to submit a request
+
+Send your request to: kamchatka_lab@mail.ru
+Please include:
+- your name (or another identifier to process the request);
+- request type (access/correction/deletion/etc.);
+- relevant details (date, app version, device);
+- your contact email.
+
+Subject line: "Data Subject Request — Multiplication Trainer".
+
+If the request concerns a child, the request may be submitted by a parent or legal guardian.
+
+## 3. Response timeline
+
+A response is provided within a reasonable period, generally within 30 calendar days, unless a shorter legal timeline applies.
+
+## 4. Identity verification
+
+To protect personal data, additional information may be requested to verify the requester's identity.
+
+## 5. Limitations
+
+A request may be limited or denied where permitted by law (for example, repetitive or manifestly unfounded requests, inability to verify identity, or conflict with mandatory legal obligations).
+
+## 6. Data processed by third-party SDKs
+
+The app has no accounts and does not store personal data on our servers, so most requests are handled directly on the device: clearing app data or uninstalling the app stops further processing and deletes local data (progress, learning statistics and settings). Data processed by the third-party SDKs is subject to the providers' own policies:
+- **Yandex Mobile Ads SDK (ads)**
+  Yandex Privacy Policy: https://yandex.com/legal/confidential/
+  SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
+- **Yandex AppMetrica SDK (usage statistics)**
+  Yandex Privacy Policy: https://yandex.ru/legal/confidential/
+  SDK documentation: https://appmetrica.yandex.ru/docs/
+
+Device advertising identifiers can be limited or reset in the system settings of your device.
+
+## 7. Complaints to data protection authorities
+
+If you believe that processing of your data violates applicable law, you have the right to lodge a complaint with a competent data protection authority. In the European Union, you can contact the relevant national data protection authority.
+
+## 8. Contacts and links
+
+- Privacy Policy URL: https://github.com/MaksimSorokoumov/legal/blob/main/umnojenie/privacy_policy_en.md
+- Contact email: kamchatka_lab@mail.ru
