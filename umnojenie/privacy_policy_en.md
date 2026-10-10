@@ -7,7 +7,7 @@
 **Contact email:** kamchatka_lab@mail.ru
 **Controller country/address:** Russia
 
-This Notice explains how data is processed when you use **Multiplication Trainer** (package: `ru.kamchatka.trenajor_tablici_umnojeniya.huawei`) in Huawei AppGallery.
+This Notice explains how data is processed when you use **Multiplication Trainer** (package: `com.kamchatka.trenajor_tablici_umnojeniya.huawei`) in Huawei AppGallery.
 
 The app has no user accounts, no registration and no sign-in. We do not collect your name, phone number, e-mail address or contact list. The app is an educational tool for learning the multiplication table and works fully offline.
 

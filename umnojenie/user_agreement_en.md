@@ -7,7 +7,7 @@
 **Contact email:** kamchatka_lab@mail.ru
 **Operator country/address:** Russia
 
-These Terms of Use (the "Terms") govern your use of the mobile app **Multiplication Trainer** (package: `ru.kamchatka.trenajor_tablici_umnojeniya.huawei`) (the "App"). By installing or using the App you accept these Terms. If you do not agree, do not use the App.
+These Terms of Use (the "Terms") govern your use of the mobile app **Multiplication Trainer** (package: `com.kamchatka.trenajor_tablici_umnojeniya.huawei`) (the "App"). By installing or using the App you accept these Terms. If you do not agree, do not use the App.
 
 ## 1. Purpose of the App
 
