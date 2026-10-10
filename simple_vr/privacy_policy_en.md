@@ -7,7 +7,7 @@
 **Contact email:** kamchatka_lab@mail.ru
 **Controller country/address:** Russia
 
-This Notice explains how data is processed when you use **Simple VR** (package: `ru.simplevr.simple_vr.huawei`) in Huawei AppGallery.
+This Notice explains how data is processed when you use **Simple VR** (package: `com.kamchatka.simple_vr.huawei`) in Huawei AppGallery.
 
 The app has no accounts, registration or sign-in. Your videos never leave your device: the app does not upload, copy or send them anywhere.
 
@@ -31,6 +31,8 @@ When ads are served, the third-party SDK may process:
 - ad events (impressions, clicks, technical delivery events).
 
 Purposes: ad delivery, frequency capping, anti-fraud, and ad performance analytics.
+
+The app also uses **Yandex AppMetrica SDK** for anonymous usage statistics (app launch, opening a video, ad events). It may process technical device/app data, device identifiers and IP address. The content of your videos and files is not transmitted.
 
 ## 2. App permissions
 
@@ -56,6 +58,8 @@ Ad-related data may be processed by third-party providers through SDK operation:
 - **Yandex Ads (Yandex Mobile Ads SDK)**
   Yandex Privacy Policy: https://yandex.com/legal/confidential/
   SDK documentation: https://ads.yandex.com/helpcenter/en/dev/
+- **Yandex AppMetrica**
+  https://yandex.com/legal/appmetrica_sdk_agreement/
 
 ## 5. International transfers
 
