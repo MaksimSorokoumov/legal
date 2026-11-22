@@ -54,7 +54,7 @@ The App is provided "as is". The controller makes reasonable efforts for the App
 
 ## 10. Children
 
-The App is a logic game with a 0+ age rating. Use by minors is with the consent and under the supervision of parents or legal guardians. Details are in the Privacy Notice.
+The App is a logic game with a 12+ age rating and is not directed to children under 12. Use by minors is with the consent and under the supervision of parents or legal guardians. Details are in the Privacy Notice.
 
 ## 11. Updates and termination of use
 

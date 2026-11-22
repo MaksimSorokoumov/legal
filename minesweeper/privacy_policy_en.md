@@ -108,7 +108,7 @@ Reasonable organizational and technical measures are applied to protect data. Tr
 
 ## 8. Children
 
-The app is a logic puzzle game and requires no registration. Age rating: 0+.
+The app is a logic puzzle game and requires no registration. Age rating: 12+. The app is not directed to children under 12.
 
 - We do not knowingly collect children's personal data: the app does not ask for name, age or contacts and has no registration. The leaderboard nickname is chosen freely by the user.
 - Device advertising identifiers and network data may be processed by the third-party ad SDK as described in section 1.2. Parents and legal guardians are advised to configure device advertising identifiers in system settings (e.g. limit ad personalization or reset the identifier) and to review app permissions where needed.
